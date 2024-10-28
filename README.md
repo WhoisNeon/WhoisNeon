@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on Some Front-end designs!
 - 🌱 I’m currently learning JavaScript.
-- 😄 Pronouns: he/him
-- 
+- 🚹 Pronouns: he/him
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/UmtEtYbyT5 ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/WhoisNyma) 
 
