@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-- 🔭 I’m currently working on Some Front-end designs!
+- 🔭 I’m currently working on some Front-end designs and Learning...
 - 🌱 I’m currently learning JavaScript.
 - 🚹 Pronouns: he/him
 
